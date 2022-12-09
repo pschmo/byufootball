@@ -1,0 +1,49 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 20%;
+    outline: auto;
+    color: blue;
+    background-color: black;
+    
+}
+
+li {
+    font-size: 12px;
+}
+
+.bold {
+
+    font-weight: bolder;
+}
+
+.video {
+
+    height: 1000px; width: 1000px;
+    position: relative;
+    text-align: center;
+}
+
+.tabstyle {
+
+    background-color: blue;
+    padding: 65px;
+}
+
+.addition {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    color: rgb(0, 153, 255);
+}
+
+.stat {
+
+    color: whitesmoke;
+}
+
+body {
+
+    text-decoration: underline;
+}
